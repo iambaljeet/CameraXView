@@ -7,5 +7,3 @@ Demo for CameraX View Library.
 
 1. Clone Repository using 'https://github.com/iambaljeet/CameraXView.git'
 2. Goto File >> Import Project >> CameraXView
-
-## License
